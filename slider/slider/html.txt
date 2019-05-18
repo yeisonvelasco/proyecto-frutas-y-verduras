@@ -1,0 +1,8 @@
+        <div class="slider">
+            <ul>
+                <li><img src="./img/slider2.jpg" alt=""></li>
+                <li><img src="./img/inorganicos.jpg" alt=""></li>
+                <li><img src="./img/frutas.jpg" alt=""></li>
+                <li><img src="./img/inorganicos.jpg" alt=""></li>
+            </ul>
+        </div>
